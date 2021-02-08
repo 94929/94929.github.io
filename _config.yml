@@ -1,13 +1,12 @@
 title: Researcher
 url: "https://jha929.github.io/"
-#baseurl: "/researcher"
 baseurl: ""
 
 markdown: kramdown
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/jha929"
+footer_text: "references available upon request"
 
 sass:
   style: compressed

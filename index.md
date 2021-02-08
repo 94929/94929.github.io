@@ -4,42 +4,73 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi (안녕하세요), I'm Jinsung Ha!
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+> Machine Learning (Deep Learning) and Computer Vision
 
-## Publications
+## Education
+---
+**[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Jun 2019)  
+*MEng Computing (Artificial Intelligence)*, Achieved 2:1
+  * Year 1. Programming, Databases, Architecture, Hardware, Discrete Maths, Maths Methods, Logic, Reasoning about Programs
+  * Year 2. Artificial Intelligence, Algorithms, Operating Systems, Networks, Software Designs, Statistics, Concurrency, Compilers, Models of Computation, Computational Techniques
+  * Year 3. Machine Learning, Computer Vision, Robotics, Web Security, Distributed Algorithms, Graphics, Advanced Databases
+  * Year 4. Deep Learning, Reinforcement Learning, Natural Language Processing, ML for imaging, Maths for ML, Machine Arguing, Distributed Ledgers, Software Engineering for Industry
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Thesis
+---
+**Deep Depth Image Enhancement**  
+*Lead Author* (Supervised by [Dr Ronald Clark](http://www.ronnieclark.co.uk/))
+* The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
-## Typography
+## Research Experience
+---
+**User-Guided Colorization Using Optimization and Learned Similarity**  
+Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
+  * We propose an optimization based deep learning approach for user-guided colorization.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+## Work Experience
+---
+**[LUXROBO](https://modi.luxrobo.com/)** | South Korea (Jan 2020 - Present)  
+*Backend Software Engineer (전문연구요원)*
+  * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+**[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
+*Software Engineering Intern*
+  * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment
 
-Here is a horizontal rule
+**[Neowiz Play Studio](http://neowizplaystudio.com/en/)** | South Korea (Aug 2017 - Sep 2017)  
+*Software Engineering Intern*
+  * Implemented a deep musical note generator for a rhythm game called Tapsonic
 
+**[Comtrue Technologies](http://www.comtrue.com/english/)** | South Korea (Nov 2016 - Jan 2017)  
+*Software Engineering Intern*
+  * Refactored a Windows DLP application that has 100K+ users
+
+## Awards
+---
+**창업진흥원장상 2nd Place (in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
+*[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)*
+  * We propose a deep ensemble network to detect anomaly in noise and vib inspection testing environment
+
+## Licenses & Certifications
 ---
 
-Here is a blockquote
+Name | Type | Issued by
+---- | ---- | -------- 
+Deep Learning Specialization | Certification | Coursera 
+Tensorflow Developer Certificate | Certification | Tensorflow 
 
-> To a great mind, nothing is little
+## Skills
+---
+### Programming
+Python, Java, C/C++, Bash
 
-## References
+### Language
+English, Korean
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
