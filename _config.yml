@@ -5,7 +5,7 @@ baseurl: ""
 markdown: kramdown
 
 footer: yes
-footer_url: "https://github.com/jha929"
+footer_url: "mailto:jsung5381@naver.com"
 footer_text: "references available upon request"
 
 sass:
