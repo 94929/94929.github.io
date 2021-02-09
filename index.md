@@ -8,6 +8,13 @@ layout: default
 
 Hi (안녕하세요), I'm Jinsung Ha!
 
+Type command below to get to know about me:
+> python -m pip install jinsung; python -c "import jinsung"
+
+## Contact Me
+* Email: jsung5381@naver.com
+* Github: github.com/jha929
+
 ## Research Interest
 
 > Machine Learning (Deep Learning) and Computer Vision
