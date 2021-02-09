@@ -63,7 +63,8 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 ---
 **창업진흥원장상 2nd Place (in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
 *[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)*
-  * We propose a deep ensemble network to detect anomaly in noise and vib inspection testing environment
+  * We propose a deep ensemble network to detect anomaly in noise inspection of
+    electronics
 
 ## Licenses & Certifications
 ---
