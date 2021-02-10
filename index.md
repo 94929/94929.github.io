@@ -66,13 +66,19 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
   * We propose a deep ensemble network to detect anomaly in noise inspection of
     electronics
 
-## Licenses & Certifications
+## Certifications
 ---
-
 Name | Type | Issued by
 ---- | ---- | -------- 
 Deep Learning Specialization | Certification | Coursera 
 Tensorflow Developer Certificate | Certification | Tensorflow 
+
+## Opensource Contributions
+---
+Project | Role | PR #
+------- | ---- | ----
+[pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
+[pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9 
 
 ## Skills
 ---
