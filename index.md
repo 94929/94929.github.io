@@ -8,7 +8,7 @@ layout: default
 
 Hi (안녕하세요), I'm Jinsung Ha!
 
-Type command below to get to know about me:
+Type command below to get to know me:
 > python -m pip install jinsung; python -c "import jinsung"
 
 ## Contact Me
@@ -69,10 +69,10 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 ## Certifications
 ---
 
-Name | Type | Issued by
----- | ---- | -------- 
-Deep Learning Specialization | Certification | Coursera 
-Tensorflow Developer Certificate | Certification | Tensorflow 
+Name | Issued by | Expires on |
+---- | --------  | ---------- |
+Deep Learning Specialization | Coursera | Never
+Tensorflow Developer Certificate | Tensorflow | Jan 2024
 
 ## Opensource Contributions
 ---
@@ -80,6 +80,7 @@ Tensorflow Developer Certificate | Certification | Tensorflow
 Project | Role | PR #
 ------- | ---- | ----
 [pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
+[virtual-modi](https://github.com/LUXROBO/virtual-modi) | Author | >= 1
 [pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9 
 
 ## Skills
