@@ -68,6 +68,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Certifications
 ---
+
 Name | Type | Issued by
 ---- | ---- | -------- 
 Deep Learning Specialization | Certification | Coursera 
@@ -75,6 +76,7 @@ Tensorflow Developer Certificate | Certification | Tensorflow
 
 ## Opensource Contributions
 ---
+
 Project | Role | PR #
 ------- | ---- | ----
 [pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
