@@ -32,7 +32,7 @@ Type command below to get to know me:
 ## Thesis
 ---
 **Deep Depth Image Enhancement** | Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) at [Imperial College London](https://www.imperial.ac.uk/computing)   
-Achieved First class honours in research
+*Achieved First Class Honours (Distinction)*
 * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Research Experience
