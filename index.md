@@ -81,7 +81,7 @@ Tensorflow Developer Certificate | Tensorflow | Jan 2024
 Project | Role | PR #
 ------- | ---- | ----
 [pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
-[virtual-modi](https://github.com/LUXROBO/virtual-modi) | Author | >= 1
+[virtual-modi](https://github.com/LUXROBO/virtual-modi) | Author | \>= 1
 [pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9 
 
 ## Skills
