@@ -15,14 +15,15 @@ Type command below to get to know me:
 * Email: jsung5381@naver.com
 * Github: github.com/jha929
 
-## Research Interest
+## Interest
 
-> Machine Learning (Deep Learning) and Computer Vision
+> Machine Learning (Deep Learning), Computer Vision, Opensource, Python
 
 ## Education
 ---
 **[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Jun 2019)  
-*MEng Computing (Artificial Intelligence)*, Achieved 2:1
+*MEng Computing (Artificial Intelligence)*, Achieved 2:1  
+*학석통합과정 전산학 (인공지능)*, GPA 3.3/4.0  
   * Year 1. Programming, Databases, Architecture, Hardware, Discrete Maths, Maths Methods, Logic, Reasoning about Programs
   * Year 2. Artificial Intelligence, Algorithms, Operating Systems, Networks, Software Designs, Statistics, Concurrency, Compilers, Models of Computation, Computational Techniques
   * Year 3. Machine Learning, Computer Vision, Robotics, Web Security, Distributed Algorithms, Graphics, Advanced Databases
@@ -30,8 +31,8 @@ Type command below to get to know me:
 
 ## Thesis
 ---
-**Deep Depth Image Enhancement**  
-*Lead Author* (Supervised by [Dr Ronald Clark](http://www.ronnieclark.co.uk/))
+**Deep Depth Image Enhancement** | Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) at [Imperial College London](https://www.imperial.ac.uk/computing)   
+Achieved First class honours in research
 * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Research Experience
