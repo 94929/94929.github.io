@@ -18,7 +18,7 @@ Type command below to get to know me:
 
 ## Interest
 
-> Machine Learning (Deep Learning), Computer Vision, Opensource, Python
+> Machine Learning (Deep Learning), Computer Vision, Robotics, Opensource, Python
 
 ## Education
 ---
@@ -32,7 +32,7 @@ Type command below to get to know me:
 
 ## Thesis
 ---
-**Deep Depth Image Completion** | Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) at [Imperial College London](https://www.imperial.ac.uk/computing)   
+**Deep Depth Image Completion** | Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca/) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)
 *Achieved First Class Honours (Distinction)*
 * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
@@ -45,7 +45,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Work Experience
 ---
-**[LUXROBO](https://modi.luxrobo.com/)** | South Korea (Jan 2020 - Present)  
+**[LUXROBO](https://modi.luxrobo.com/eng)** | South Korea (Jan 2020 - Present)  
 *Backend Software Engineer (전문연구요원)*
   * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware)
 
