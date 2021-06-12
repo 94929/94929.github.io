@@ -69,6 +69,10 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
   * We propose a deep ensemble network to detect anomaly in noise inspection of
     electronics
 
+## Others
+---
+**[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)
+
 ## Certifications
 ---
 
