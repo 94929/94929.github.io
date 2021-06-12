@@ -35,7 +35,7 @@ Type command below to get to know me:
 **Self-Supervised Learning for Depth Image Completion and Enhancement**  
 Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca/) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
 *Achieved First Class Honours (Distinction)*
-* The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
+  * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Research Experience
 ---
@@ -48,30 +48,31 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 ---
 **[LUXROBO](https://modi.luxrobo.com/eng)** | South Korea (Jan 2020 - Present)  
 *Backend Software Engineer (전문연구요원)*
-  * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware)
+  * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware).
 
 **[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 *Software Engineering Intern*
-  * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment
+  * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
 **[Neowiz Play Studio](http://neowizplaystudio.com/en/)** | South Korea (Aug 2017 - Sep 2017)  
 *Software Engineering Intern*
-  * Implemented a deep musical note generator for a rhythm game called Tapsonic
+  * Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
 **[Comtrue Technologies](http://www.comtrue.com/english/)** | South Korea (Nov 2016 - Jan 2017)  
 *Software Engineering Intern*
-  * Refactored a Windows DLP application that has 100K+ users
+  * Refactored a Windows DLP application that has 100K+ users.
 
 ## Awards
 ---
 **창업진흥원장상 2nd Place (in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
 *[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)*
-  * We propose a deep ensemble network to detect anomaly in noise inspection of
-    electronics
+  * Developed a deep ensemble network to detect anomaly in noise inspection of electronics.
 
 ## Others
 ---
 **[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)
+*Participant*
+  * Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
 ## Certifications
 ---
