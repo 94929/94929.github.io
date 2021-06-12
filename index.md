@@ -70,7 +70,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Others
 ---
-**[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)
+**[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)  
 *Participant*
   * Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
