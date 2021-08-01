@@ -32,7 +32,7 @@ Type command below to get to know me:
 
 ## Thesis
 ---
-**Self-Supervised Learning for Depth Image Completion and Enhancement**  
+**Fast Deep Depth Image Completion**  
 Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca/) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
 *Achieved First Class Honours (Distinction)*
   * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
