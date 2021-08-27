@@ -90,6 +90,7 @@ Project | Role | PR #
 [pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
 [iamport-rest-client-python](https://github.com/iamport/iamport-rest-client-python) | Maintainer | \>= 43
 [pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9 
+[pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr) | Contributor | 276
 [virtual-modi](https://github.com/LUXROBO/virtual-modi) | Author | \>= 1
 
 ## Skills
@@ -99,4 +100,3 @@ Python, Java, C/C++, Bash
 
 ### Language
 English, Korean
-
