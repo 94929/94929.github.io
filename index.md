@@ -9,9 +9,9 @@ title: Jinsung Ha
 
 Hi (안녕하세요), I'm Jinsung Ha!
 
-`import jinsung` from the console below to get to know me:
+Try `import jinsung` in the console below to get to know me:
 
-<iframe frameborder="0" width="100%" height="350px" src="brython/index.html"></iframe>
+<iframe frameborder="0" width="120%" height="300px" src="brython/index.html"></iframe>
 
 ## Contact Me
 * Email: jsung5381@naver.com
