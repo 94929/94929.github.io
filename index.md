@@ -11,9 +11,7 @@ Hi (안녕하세요), I'm Jinsung Ha!
 
 Try `import jinsung` in the console below to get to know me:
 
-<p align="center">
-  <iframe frameborder="0" width="150%" height="380px" src="brython/index.html"></iframe>
-</p>
+<iframe frameborder="0" width="150%" height="380px" src="brython/index.html"></iframe>
 
 ## Interest
 
@@ -63,7 +61,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Awards
 ---
-**창업진흥원장상 2nd Place (in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
+**창업진흥원장상 (2nd Place in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
 *[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)*
   * Developed a deep ensemble network to detect anomaly in noise inspection of electronics.
 

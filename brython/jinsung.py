@@ -18,4 +18,4 @@ about_me = dedent(
     Pursuing my career in machine learning, as a backend software engineer.
     """.rstrip()
 )
-print(about_me)
+print(about_me[1:])
