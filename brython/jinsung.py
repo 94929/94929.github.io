@@ -1,4 +1,7 @@
-about_me = (
+from textwrap import dedent
+
+
+about_me = dedent(
     """
     Born on the 29th of September, 1994 in Seoul, South Korea. The only child.
     Met StarCraft I and Diablo II when I was 7. Love playing games since then.
