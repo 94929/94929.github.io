@@ -9,8 +9,7 @@ title: Jinsung Ha
 
 Hi (안녕하세요), I'm Jinsung Ha!
 
-Type the command below to get to know me:
-> import jinsung
+`import jinsung` from the console below to get to know me:
 
 <iframe frameborder="0" width="100%" height="350px" src="brython/index.html"></iframe>
 
