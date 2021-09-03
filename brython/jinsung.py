@@ -15,3 +15,4 @@ about_me = (
     Pursuing my career in machine learning, as a backend software engineer.
     """.rstrip()
 )
+print(about_me)

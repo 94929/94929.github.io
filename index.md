@@ -13,7 +13,7 @@ Type command below to get to know me:
 > python -m pip install jinsung; python -c "import jinsung"
 
 <p align="center">
-  <iframe frameborder="0" width="100%" src="brython/index.html"></iframe>
+  <iframe frameborder="0" src="brython/index.html"></iframe>
 </p>
 
 ## Contact Me
