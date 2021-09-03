@@ -9,8 +9,8 @@ title: Jinsung Ha
 
 Hi (안녕하세요), I'm Jinsung Ha!
 
-Type command below to get to know me:
-> python -m pip install jinsung; python -c "import jinsung"
+Type the command below to get to know me:
+> import jinsung
 
 <iframe frameborder="0" width="100%" height="650px" src="brython/index.html"></iframe>
 
