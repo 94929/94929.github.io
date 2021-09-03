@@ -60,7 +60,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 **[Comtrue Technologies](http://www.comtrue.com/english/)** | South Korea (Nov 2016 - Jan 2017)  
 *Software Engineering Intern*
-  * Refactored a Windows DLP application that has 100K+ users.
+  * Maintained a Windows DLP application that has 100K+ users.
 
 ## Awards
 ---
@@ -73,6 +73,10 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 **[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)  
 *Participant*
   * Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
+
+**[Opensource Contributon](https://www.oss.kr/contribution_academy)** | [OSS](https://www.oss.kr/)  
+*Participant*
+  * Made a different types of contributions to pytorch-tutorials-kr and pytorch-hub-kr.
 
 ## Certifications
 ---
