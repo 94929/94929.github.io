@@ -12,7 +12,7 @@ Hi (안녕하세요), I'm Jinsung Ha!
 Type the command below to get to know me:
 > import jinsung
 
-<iframe frameborder="0" width="50%" height="650px" src="brython/index.html"></iframe>
+<iframe frameborder="0" width="100%" height="350px" src="brython/index.html"></iframe>
 
 ## Contact Me
 * Email: jsung5381@naver.com
