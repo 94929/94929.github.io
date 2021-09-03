@@ -11,9 +11,7 @@ Hi (안녕하세요), I'm Jinsung Ha!
 
 Try `import jinsung` in the console below to get to know me:
 
-<p align="center">
-  <iframe frameborder="0" width="100%" height="350px" src="brython/index.html"></iframe>
-</p>
+<iframe frameborder="0" width="100%" height="380px" src="brython/index.html"></iframe>
 
 ## Interest
 
