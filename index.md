@@ -12,6 +12,10 @@ Hi (안녕하세요), I'm Jinsung Ha!
 Type command below to get to know me:
 > python -m pip install jinsung; python -c "import jinsung"
 
+<p align="center">
+	<iframe src="http://brython.info/console.html" width="800" height="400"></iframe>
+</p>
+
 ## Contact Me
 * Email: jsung5381@naver.com
 * Github: github.com/jha929
