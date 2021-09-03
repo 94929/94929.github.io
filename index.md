@@ -70,11 +70,11 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Others
 ---
-**[Google Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)  
+**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)  
 *Participant*
   * Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
-**[Opensource Contributon](https://www.oss.kr/contribution_academy)** | [OSS](https://www.oss.kr/)  
+**[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software](https://www.oss.kr/)  
 *Participant*
   * Made a different types of contributions to pytorch-tutorials-kr and pytorch-hub-kr.
 
