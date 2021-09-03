@@ -11,11 +11,9 @@ Hi (안녕하세요), I'm Jinsung Ha!
 
 Try `import jinsung` in the console below to get to know me:
 
-<iframe frameborder="0" width="140%" height="350px" src="brython/index.html"></iframe>
-
-## Contact Me
-* Email: jsung5381@naver.com
-* Github: github.com/jha929
+<p align="center">
+  <iframe frameborder="0" width="140%" height="350px" src="brython/index.html"></iframe>
+</p>
 
 ## Interest
 
