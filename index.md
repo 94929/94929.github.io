@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jinsung Ha
+title: Jinsung Ha (하진성)
 ---
 
 ## About Me
@@ -11,7 +11,7 @@ Hi (안녕하세요), I'm Jinsung Ha!
 
 Try `import jinsung` in the console below to get to know me:
 
-<iframe frameborder="0" width="100%" height="330px" src="brython/index.html"></iframe>
+<iframe frameborder="0" width="101%" height="360px" src="brython/index.html"></iframe>
 
 ## Interest
 
