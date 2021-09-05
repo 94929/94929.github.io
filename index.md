@@ -5,11 +5,16 @@ title: Jinsung Ha (하진성)
 
 ## About Me
 
+<!--
 <img class="profile-picture" src="me.jpg">
+-->
 
-Hi (안녕하세요), I'm Jinsung Ha!
+> 안녕하세요! 저는 2년차 머신러닝 엔지니어 하진성입니다.  
+> 개인의 발전도 중요하지만, 회사에서는 회사의 목표에 중점을 두며 일합니다.  
+> 머신러닝 엔지니어로서 개발역량 70%, 연구역량 30% 정도를 지니고 있다고 생각합니다.  
+> 현재는 머신러닝 엔지니어링 뿐만 아니라, 데이터 및 백엔드 엔지니어링 역량을 키우고 있습니다.  
 
-Try `import jinsung` in the console below to get to know me:
+Type `import jinsung` in the console below to further discover about me.
 
 <iframe frameborder="0" width="101%" height="360px" src="brython/index.html"></iframe>
 
@@ -51,7 +56,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 *Software Engineering Intern*
   * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
-**[Neowiz Play Studio](http://neowizplaystudio.com/en/)** | South Korea (Aug 2017 - Sep 2017)  
+**[Neowiz](https://www.neowiz.com/neowiz?t=1)** | South Korea (Aug 2017 - Sep 2017)  
 *Software Engineering Intern*
   * Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
@@ -62,7 +67,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Projects
 ---
-[Link to projects page]
+[Hanc marginis exiguitas non caperet.](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
 
 
 ## Awards
