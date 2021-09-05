@@ -59,6 +59,12 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 *Software Engineering Intern*
   * Maintained a Windows DLP application that has 100K+ users.
 
+
+## Projects
+---
+[Link to projects page]
+
+
 ## Awards
 ---
 **창업진흥원장상 (2nd Place in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
