@@ -60,7 +60,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 *Software Engineering Intern*
   * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
-**[Neowiz](https://www.neowiz.com/neowiz?t=1)** | South Korea (Aug 2017 - Sep 2017)  
+**[NEOWIZ](https://www.neowiz.com/neowiz?t=1)** | South Korea (Aug 2017 - Sep 2017)  
 *Software Engineering Intern*
   * Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
@@ -105,8 +105,9 @@ Project | Role | PR #
 ------- | ---- | ----
 [pymodi](https://github.com/LUXROBO/pymodi) | Maintainer | \>= 97
 [iamport-rest-client-python](https://github.com/iamport/iamport-rest-client-python) | Maintainer | \>= 43
-[pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9 
+[pyupbit](https://github.com/sharebook-kr/pyupbit) | Contributor | 5, 7, 8, 9
 [pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr) | Contributor | 276
+[backend-interview-question](https://github.com/ksundong/backend-interview-question) | Contributor | 24
 [virtual-modi](https://github.com/LUXROBO/virtual-modi) | Author | \>= 1
 
 ## Skills
