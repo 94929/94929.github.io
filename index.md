@@ -29,7 +29,7 @@ Type `import jinsung` in the python console below to further discover about me.
 
 ## Education
 ---
-**[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Jun 2019)  
+**[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Oct 2019)  
 *MEng Computing (Artificial Intelligence)*, Achieved 2:1  
 *학석통합과정 전산학 (인공지능)*, GPA 3.3/4.0  
   * Year 1. Programming, Databases, Architecture, Hardware, Discrete Maths, Maths Methods, Logic, Reasoning about Programs
@@ -46,6 +46,10 @@ Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad 
 
 ## Research Experience
 ---
+**GuideFormer: Transformers for Image Guided Depth Completion**  
+Kyeongha Rho\*, Jinsung Ha\*, Youngjung Kim
+  * We propose a fully transformer-based architecture for dense depth completion.
+
 **User-Guided Colorization Using Optimization and Learned Similarity**  
 Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
   * We propose an optimization based deep learning approach for user-guided colorization.
@@ -58,11 +62,11 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
   * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware).
 
 **[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
-*Software Engineering Intern*
+*Machine Learning Engineering Intern*
   * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
 **[NEOWIZ](https://www.neowiz.com/neowiz?t=1)** | South Korea (Aug 2017 - Sep 2017)  
-*Software Engineering Intern*
+*Machine Learning Engineering Intern*
   * Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
 **[Comtrue Technologies](http://www.comtrue.com/english/)** | South Korea (Nov 2016 - Jan 2017)  
