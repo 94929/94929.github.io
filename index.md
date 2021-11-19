@@ -76,7 +76,7 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 
 ## Projects
 ---
-[Hanc marginis exiguitas non caperet.](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+[Hanc marginis exiguitas non caperet.](https://kimchimate.notion.site/12716fbd7f154ac4a776ba206b950061)
 
 
 ## Awards
