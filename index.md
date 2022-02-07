@@ -69,10 +69,6 @@ Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
 *Machine Learning Engineering Intern*
   * Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
-**[Comtrue Technologies](http://www.comtrue.com/english/)** | South Korea (Nov 2016 - Jan 2017)  
-*Software Engineering Intern*
-  * Maintained a Windows DLP application that has 100K+ users.
-
 
 ## Projects
 ---
