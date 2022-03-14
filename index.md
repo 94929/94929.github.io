@@ -47,7 +47,7 @@ Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad 
 ## Research Experience
 ---
 **GuideFormer: Transformers for Image Guided Depth Completion**  
-Kyeongha Rho\*, Jinsung Ha\*, Youngjung Kim
+Kyeongha Rho\*, Jinsung Ha\*, Youngjung Kim  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, New Orleans*
   * We propose a fully transformer-based architecture for dense depth completion.
 
