@@ -40,19 +40,19 @@ Type `import jinsung` in the python console below to further discover about me.
 ## Thesis
 ---
 **Fast Deep Depth Image Completion**  
-Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca/) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
+Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
 *Achieved First Class Honours (Distinction)*
   * The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Research Experience
 ---
 **GuideFormer: Transformers for Image Guided Depth Completion**  
-Kyeongha Rho\*, Jinsung Ha\*, Youngjung Kim  
+Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022*
   * We propose a fully transformer-based architecture for dense depth completion.
 
 **User-Guided Colorization Using Optimization and Learned Similarity**  
-Jinsung Ha\*, Shuyu Lin\*, Ronald Clark
+[Jinsung Ha](https://jha929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ronnieclark.co.uk)
   * We propose an optimization based deep learning approach for user-guided colorization.
 
 
