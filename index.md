@@ -63,7 +63,7 @@ Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim
 *Backend Software Engineer (전문연구요원)*
   * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware).
 
-**[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
+**[Schlumberger](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 *Machine Learning Engineering Intern*
   * Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
