@@ -116,7 +116,7 @@ Project | Role | PR #
 ## Skills
 ---
 ### Programming
-Python, Java, C/C++, Bash
+Python, Java, C, Bash
 
 ### Language
 English, Korean
