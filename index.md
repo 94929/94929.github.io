@@ -74,7 +74,7 @@ Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim
 
 ## Projects
 ---
-[Hanc marginis exiguitas non caperet.](https://kimchimate.notion.site/12716fbd7f154ac4a776ba206b950061)
+[![Hanc marginis exiguitas non caperet.](./projects.png)](https://jinsungha.notion.site/12716fbd7f154ac4a776ba206b950061)
 
 
 ## Awards
