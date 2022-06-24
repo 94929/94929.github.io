@@ -16,7 +16,7 @@ AI팀에서 개발 리드 역할을 수행하며, [프로젝트 코어 개발](x
 개발 중 불편한게 보이면 [이슈 등록 -> 포크 -> 수정 -> PR의 프로세스](https://github.com/iamport/iamport-rest-client-python)를 거칩니다.  
 [자동화](https://github.com/jha929/dotfiles)(사람 이름 아님)를 사랑하며, 최소한의 주석으로 읽을 수 있는 [깔끔한 코드](https://github.com/LUXROBO/virtual-modi/blob/main/virtual_modi/util/topology_util.py)를 지향합니다.   
 모든 프로젝트를 버전관리하며, 자연스레 깃헙 액션을 통한 CI/CD를 생활화 하고 있습니다.  
-머신러닝 엔지니어로서 [개발역량](https://github.com/luxrobo/pymodi)과 [연구역량](x) 모두 다 갖추려 노력하고 있습니다.  
+머신러닝 엔지니어로서 [개발역량](https://github.com/luxrobo/pymodi)과 [연구역량](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) 모두 다 갖추려 노력하고 있습니다.  
 최근에는 머신러닝 엔지니어링 뿐만 아니라, [데이터](x) 및 [백엔드](x) 엔지니어링 역량을 키우고 있습니다.  
 
 ---
@@ -49,7 +49,7 @@ Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad 
 **GuideFormer: Transformers for Image Guided Depth Completion**  
 Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022*  
-[[pdf](x)]
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf)]
   * We propose a fully transformer-based architecture for dense depth completion.
 
 **User-Guided Colorization Using Optimization and Learned Similarity**  
