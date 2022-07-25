@@ -10,15 +10,6 @@ title: Jinsung Ha (하진성)
 <img class="profile-picture" src="me.jpg">
 -->
 
-안녕하세요! 저는 2년차 전문연구요원 머신러닝 엔지니어 하진성입니다.  
-AI팀에서 개발 리드 역할을 수행하며, [프로젝트 코어 개발](x)을 담당하고 있습니다.  
-커리어 관점에서 개인의 발전도 중요하지만, 회사에서는 [회사와 팀의 목표](https://github.com/luxrobo/modi-firmware-updater)를 위해 일합니다.  
-개발 중 불편한게 보이면 [이슈 등록 -> 포크 -> 수정 -> PR의 프로세스](https://github.com/iamport/iamport-rest-client-python)를 거칩니다.  
-[자동화](https://github.com/jha929/dotfiles)(사람 이름 아님)를 사랑하며, 최소한의 주석으로 읽을 수 있는 [깔끔한 코드](https://github.com/LUXROBO/virtual-modi/blob/main/virtual_modi/util/topology_util.py)를 지향합니다.  
-모든 프로젝트를 버전관리하며, 자연스레 깃헙 액션을 통한 CI/CD를 생활화 하고 있습니다.  
-머신러닝 엔지니어로서 [개발역량](https://github.com/luxrobo/pymodi)과 [연구역량](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) 모두 다 갖추려 노력하고 있습니다.  
-
----
 Type `import jinsung` in the python console below to further discover about me.
 <iframe frameborder="0" width="101%" height="360px" src="brython/index.html"></iframe>
 
@@ -30,7 +21,7 @@ Type `import jinsung` in the python console below to further discover about me.
 ---
 **[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Oct 2019)  
 *MEng Computing (Artificial Intelligence)*, Achieved 2:1  
-*학석통합과정 전산학 (인공지능)*, GPA 3.3/4.0  
+*학석사통합과정 전산학 (인공지능)*, GPA 3.3/4.0  
   * Year 1. Programming, Databases, Architecture, Hardware, Discrete Maths, Maths Methods, Logic, Reasoning about Programs
   * Year 2. Artificial Intelligence, Algorithms, Operating Systems, Networks, Software Designs, Statistics, Concurrency, Compilers, Models of Computation, Computational Techniques
   * Year 3. Machine Learning, Computer Vision, Robotics, Web Security, Distributed Algorithms, Graphics, Advanced Databases
@@ -58,9 +49,17 @@ Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim
 
 ## Work Experience
 ---
-**[LUXROBO](https://modi.luxrobo.com/eng)** | South Korea (Jan 2020 - Present)  
-*Backend Software Engineer (전문연구요원)*
-  * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) and [MODI ESP32 Firmware](https://github.com/LUXROBO/upy-modi-esp32-firmware).
+**[Dable](https://dable.io/en)** | South Korea (Jul 2022 - Present)  
+*Machine Learning Engineer (전문연구요원 전직)*
+  * SW Engineering in ML ...
+
+**[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
+*Machine Learning Engineer (전문연구요원 편입)*
+  * Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
+  * Enhaned usability of MODI with SWE such as MODI Firmware Updater, uPyESP32 Firmware and VirtualMODI.
+  * Led AI Team to win 2nd place in AI Championship 2022.
+  * Conducted research on depth completion, published the result to CVPR 2022.
+  * Structured data pipeline using Github Actions with AWS, as well as machine learning apis.
 
 **[Schlumberger](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 *Machine Learning Engineering Intern*
@@ -115,7 +114,7 @@ Project | Role | PR #
 ## Skills
 ---
 ### Programming
-Python, Go, Java, C, Bash
+Python, Typescript, Java, Go, C, Bash
 
 ### Language
 English, Korean
