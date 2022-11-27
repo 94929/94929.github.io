@@ -6,12 +6,8 @@ title: Jinsung Ha (하진성)
 ## About Me
 ---
 
-<!--
-<img class="profile-picture" src="me.jpg">
--->
-
 Type `import jinsung` in the python console below to further discover about me.
-<iframe frameborder="0" width="101%" height="360px" src="brython/index.html"></iframe>
+<iframe frameborder="0" width="115%" height="360px" src="brython/index.html"></iframe>
 
 ## Interest
 ---
@@ -37,13 +33,13 @@ Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad 
 ## Research Experience
 ---
 **GuideFormer: Transformers for Image Guided Depth Completion**  
-Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim  
+Kyeongha Rho\*, [Jinsung Ha](https://94929.github.io)\*, Youngjung Kim  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022*  
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf)]
   * We propose a fully transformer-based architecture for dense depth completion.
 
 **User-Guided Colorization Using Optimization and Learned Similarity**  
-[Jinsung Ha](https://jha929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ronnieclark.co.uk)
+[Jinsung Ha](https://94929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ronnieclark.co.uk)
   * We propose an optimization based deep learning approach for user-guided colorization.
 
 
@@ -51,7 +47,9 @@ Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim
 ---
 **[Dable](https://dable.io/en)** | South Korea (Jul 2022 - Present)  
 *Machine Learning Engineer (전문연구요원 전직)*
-  * SW Engineering in ML ...
+  * Involved in both SW 1.0 and 2.0 of the vision team.
+  * Lightweighted edge device containing ads player and inference module.
+  * Preprocessed edge logs to provide realtime RFA calculation.
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
 *Machine Learning Engineer (전문연구요원 편입)*
@@ -60,6 +58,7 @@ Kyeongha Rho\*, [Jinsung Ha](https://jha929.github.io)\*, Youngjung Kim
   * Led AI Team to win 2nd place in AI Championship 2022.
   * Conducted research on depth completion, published the result to CVPR 2022.
   * Structured data pipeline using Github Actions with AWS, as well as machine learning apis.
+  * Received the best peer (of AI) prize in 2021, nominated by many colleagues.
 
 **[Schlumberger](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 *Machine Learning Engineering Intern*

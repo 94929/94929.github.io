@@ -14,7 +14,6 @@ about_me = dedent(
     Got accepted to Imperial College London which is 2nd best university in the world, according to QS world university rankings 2014.
     Majored in computer science, specialised in AI, from 2014 to 2019. The hardest time in my life.
     Graduated from the college, my country called me for duty. Decided to fulfil the duty as technical research personnel(전문연구요원).
-    Started working as a backend software engineer in AI team, for LUXROBO, a modular robotics startup.
     Pursuing my career in machine learning, as a backend software engineer.
     """.rstrip()
 )
