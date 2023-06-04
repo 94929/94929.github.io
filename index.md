@@ -26,7 +26,9 @@ _Machine Learning Engineer (전문연구요원 전직)_
 
 - Involved in both SW 1.0 and 2.0 of the vision team.
 - Lightweighted edge device containing ads player and inference module.
+- Implemented custom dag scheduler for daily ads module.
 - Preprocessed edge logs to provide realtime RFA calculation.
+- Implemented footfall module based on tracking module, used in coex hall.
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
 _Machine Learning Engineer (전문연구요원 편입)_
@@ -38,7 +40,7 @@ _Machine Learning Engineer (전문연구요원 편입)_
 - Structured data pipeline using Github Actions with AWS, as well as machine learning apis.
 - Received the best peer (of AI) prize in 2021, nominated by many colleagues.
 
-**[Schlumberger](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
+**[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 _Machine Learning Engineering Intern_
 
 - Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
