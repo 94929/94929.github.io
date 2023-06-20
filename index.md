@@ -21,7 +21,7 @@ Type `import jinsung` in the python console below to further discover about me.
 
 ---
 
-**[Dable](https://dable.io/en)** | South Korea (Jul 2022 - Present)  
+**[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
 _Machine Learning Engineer (전문연구요원 전직)_
 
 - Involved in both SW 1.0 and 2.0 of the vision team.
@@ -62,7 +62,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022_
 - We propose a fully transformer-based architecture for depth completion.
 
 **User-Guided Colorization Using Optimization and Learned Similarity**  
-[Jinsung Ha](https://94929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ronnieclark.co.uk)
+[Jinsung Ha](https://94929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ron-clark.com)  
 
 - We propose an optimization based deep learning approach for user-guided colorization.
 
@@ -84,7 +84,7 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 ---
 
 **Fast Deep Depth Image Completion**  
-Co-Supervised by [Dr Ronald Clark](https://www.ronnieclark.co.uk) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
+Co-Supervised by [Dr Ronald Clark](https://www.ron-clark.com) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
 _Achieved First Class Honours (Distinction)_
 
 - The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
@@ -108,15 +108,15 @@ _[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)_
 
 ---
 
-**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com/)  
+**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com)  
 _Participant_
 
 - Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
-**[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software](https://www.oss.kr/)  
+**[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software](https://www.oss.kr)  
 _Participant_
 
-- Made a different types of contributions to [pytorch-tutorials-kr](https://tutorials.pytorch.kr/)
+- Made a different types of contributions to [pytorch-tutorials-kr](https://tutorials.pytorch.kr)
 
 ## Certifications
 
@@ -146,7 +146,7 @@ _Participant_
 
 ### Programming
 
-Python, Typescript, Java, Go, C, Bash
+Python, Typescript, Java, C, Bash
 
 ### Language
 
