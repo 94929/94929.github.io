@@ -17,6 +17,14 @@ Type `import jinsung` in the python console below to further discover about me.
 
 > Machine Learning (Deep Learning), Computer Vision, Robotics, Opensource, Python
 
+## Tech Stack
+
+---
+
+> Language: Python, Typescript
+> Backend Framework: NestJS, FastAPI
+> DL Framework: PyTorch
+
 ## Work Experience
 
 ---
