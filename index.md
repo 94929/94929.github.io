@@ -26,7 +26,7 @@ Type `import jinsung` in the python console below to further discover about me.
 ---
 
 **[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
-_Machine Learning Engineer (전문연구요원 전직)_
+_Machine Learning Engineer (전문연구요원 전직)_  
 *AI Team*
 - in progress
 
@@ -35,16 +35,16 @@ _Machine Learning Engineer (전문연구요원 전직)_
 - Lightweighted edge device containing ads player and inference module by optimization.
 - Implemented custom DAG Scheduler for daily updated ADs.
 - Implemented a preprocessor for raw edge logs to provide realtime aggregation.
-- Implemented [footfall](https://en.wikipedia.org/wiki/People_counter) module based on people tracking module, used in [coex convention hall](https://www.coex.co.kr/blog/coex-facility-info/hall-a).
+- Implemented [footfall](https://en.wikipedia.org/wiki/People_counter) module based on people tracking module, used in [COEX convention hall](https://www.coex.co.kr/blog/coex-facility-info/hall-a).
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
 _Machine Learning Engineer (전문연구요원 편입)_
 
-- Implemented [MODI](https://global.luxrobo.com/eng/product/product.php) Python API, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
-- Enhaned usability of MODI by implementing SWs including [MODI Firmware Updater](https://github.com/LUXROBO/modi-firmware-updater), [uPyESP32 Firmware](https://github.com/LUXROBO/upy-esp32-firmware) and [VirtualMODI](https://github.com/LUXROBO/virtual-modi).
-- Led AI Team to [win 2nd place](https://youtu.be/WvvKBmTsPTY?t=5822) in AI Championship 2020.
-- Conducted a side-research on depth completion, published [our research](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) to CVPR 2022.
-- Structured automated data pipeline with Github Actions and AWS for recommendation system apis.
+- Implemented MODI Python API, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
+- Enhaned usability of MODI by implementing SWs including MODI Firmware Updater, VirtualMODI.
+- Led AI Team to win 2nd place in AI Championship 2020.
+- Conducted a side-research on depth completion, published our research to CVPR 2022.
+- Structured automated data pipeline with Github Actions and AWS for recommendation system APIs.
 - Received the best peer (of AI) prize in 2021, nominated by colleagues.
 
 **[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
@@ -133,6 +133,7 @@ _Participant_
 | Project                                                                              | Role        | PR #       |
 | ------------------------------------------------------------------------------------ | ----------- | ---------- |
 | [pymodi](https://github.com/LUXROBO/pymodi)                                          | Maintainer  | \>= 97     |
+| [modi-firmware-updater](https://github.com/LUXROBO/modi-firmware-updater)            | Author      | \>= 1      |
 | [iamport-rest-client-python](https://github.com/iamport/iamport-rest-client-python)  | Maintainer  | \>= 43     |
 | [pyupbit](https://github.com/sharebook-kr/pyupbit)                                   | Contributor | 5, 7, 8, 9 |
 | [pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr)                 | Contributor | 276        |
