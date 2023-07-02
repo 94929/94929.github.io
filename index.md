@@ -4,7 +4,6 @@ title: Jinsung Ha (하진성)
 ---
 
 ## About Me
-
 ---
 
 Type `import jinsung` in the python console below to further discover about me.
@@ -12,41 +11,41 @@ Type `import jinsung` in the python console below to further discover about me.
 <iframe frameborder="0" width="115%" height="360px" src="brython/index.html"></iframe>
 
 ## Interest
-
 ---
 
-> Machine Learning (Deep Learning), Computer Vision, Robotics, Opensource, Python
+> Machine Learning (Deep Learning), Backend, Python
 
 ## Tech Stack
-
 ---
 
-> Language: Python, Typescript
-> Backend Framework: NestJS, FastAPI
-> DL Framework: PyTorch
+> Language: Python, Typescript  
+> Backend Framework: NestJS, FastAPI  
+> DL Framework: PyTorch  
 
 ## Work Experience
-
 ---
 
 **[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
 _Machine Learning Engineer (전문연구요원 전직)_
+*AI Team*
+- in progress
 
-- Involved in both SW 1.0 and 2.0 of the vision team.
-- Lightweighted edge device containing ads player and inference module.
-- Implemented custom dag scheduler for daily ads module.
-- Preprocessed edge logs to provide realtime RFA calculation.
-- Implemented footfall module based on tracking module, used in coex hall.
+*Space Vision Team*
+- Involved in both SW 1.0 and 2.0 of the computer vision team.
+- Lightweighted edge device containing ads player and inference module by optimization.
+- Implemented custom DAG Scheduler for daily updated ADs.
+- Implemented a preprocessor for raw edge logs to provide realtime aggregation.
+- Implemented [footfall](https://en.wikipedia.org/wiki/People_counter) module based on people tracking module, used in [coex convention hall](https://www.coex.co.kr/blog/coex-facility-info/hall-a).
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
 _Machine Learning Engineer (전문연구요원 편입)_
 
-- Implemented Python API for MODI, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
-- Enhaned usability of MODI with SWE such as MODI Firmware Updater, uPyESP32 Firmware and VirtualMODI.
-- Led AI Team to win 2nd place in AI Championship 2022.
-- Conducted research on depth completion, published the result to CVPR 2022.
-- Structured data pipeline using Github Actions with AWS, as well as machine learning apis.
-- Received the best peer (of AI) prize in 2021, nominated by many colleagues.
+- Implemented [MODI](https://global.luxrobo.com/eng/product/product.php) Python API, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
+- Enhaned usability of MODI by implementing SWs including [MODI Firmware Updater](https://github.com/LUXROBO/modi-firmware-updater), [uPyESP32 Firmware](https://github.com/LUXROBO/upy-esp32-firmware) and [VirtualMODI](https://github.com/LUXROBO/virtual-modi).
+- Led AI Team to [win 2nd place](https://youtu.be/WvvKBmTsPTY?t=5822) in AI Championship 2020.
+- Conducted a side-research on depth completion, published [our research](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf) to CVPR 2022.
+- Structured automated data pipeline with Github Actions and AWS for recommendation system apis.
+- Received the best peer (of AI) prize in 2021, nominated by colleagues.
 
 **[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
 _Machine Learning Engineering Intern_
@@ -59,7 +58,6 @@ _Machine Learning Engineering Intern_
 - Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
 ## Research Experience
-
 ---
 
 **GuideFormer: Transformers for Image Guided Depth Completion**  
@@ -75,7 +73,6 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022_
 - We propose an optimization based deep learning approach for user-guided colorization.
 
 ## Education
-
 ---
 
 **[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Oct 2019)  
@@ -88,7 +85,6 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 - Year 4. Deep Learning, Reinforcement Learning, Natural Language Processing, ML for imaging, Maths for ML, Machine Arguing, Distributed Ledgers, Software Engineering for Industry
 
 ## Thesis
-
 ---
 
 **Fast Deep Depth Image Completion**  
@@ -98,13 +94,11 @@ _Achieved First Class Honours (Distinction)_
 - The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Projects
-
 ---
 
 [![Hanc marginis exiguitas non caperet.](./projects.png)](https://jinsungha.notion.site/12716fbd7f154ac4a776ba206b950061)
 
 ## Awards
-
 ---
 
 **창업진흥원장상 (2nd Place in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
@@ -113,7 +107,6 @@ _[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)_
 - Developed a deep ensemble network to detect anomaly in noise inspection of electronics.
 
 ## Activities
-
 ---
 
 **[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com)  
@@ -127,7 +120,6 @@ _Participant_
 - Made a different types of contributions to [pytorch-tutorials-kr](https://tutorials.pytorch.kr)
 
 ## Certifications
-
 ---
 
 | Name                             | Issued by  | Expires on |
@@ -136,7 +128,6 @@ _Participant_
 | Tensorflow Developer Certificate | Tensorflow | Jan 2024   |
 
 ## Opensource Contributions
-
 ---
 
 | Project                                                                              | Role        | PR #       |
@@ -147,15 +138,3 @@ _Participant_
 | [pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr)                 | Contributor | 276        |
 | [backend-interview-question](https://github.com/ksundong/backend-interview-question) | Contributor | 24         |
 | [virtual-modi](https://github.com/LUXROBO/virtual-modi)                              | Author      | \>= 1      |
-
-## Skills
-
----
-
-### Programming
-
-Python, Typescript, Java, C, Bash
-
-### Language
-
-English, Korean
