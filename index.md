@@ -35,7 +35,7 @@ _Machine Learning Engineer (전문연구요원 전직)_
 - Lightweighted edge device containing ads player and inference module by optimization.
 - Implemented custom DAG Scheduler for daily updated ADs.
 - Implemented a preprocessor for raw edge logs to provide realtime aggregation.
-- Implemented [footfall](https://en.wikipedia.org/wiki/People_counter) module based on people tracking module, used in [COEX convention hall](https://www.coex.co.kr/blog/coex-facility-info/hall-a).
+- Implemented people counter module based on people tracking module, used in COEX convention hall.
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
 _Machine Learning Engineer (전문연구요원 편입)_
