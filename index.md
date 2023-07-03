@@ -18,9 +18,9 @@ Type `import jinsung` in the python console below to further discover about me.
 ## Tech Stack
 ---
 
-> Language: Python, Typescript  
-> Backend Framework: NestJS, FastAPI  
-> DL Framework: PyTorch  
+> Language: [Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white), [TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)  
+> Backend Framework: [NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white), [FastAPI](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white)  
+> DL Framework: [PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 
 ## Work Experience
 ---
@@ -117,7 +117,7 @@ _Participant_
 **[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software](https://www.oss.kr)  
 _Participant_
 
-- Made a different types of contributions to [pytorch-tutorials-kr](https://tutorials.pytorch.kr)
+- Contributed to [pytorch-tutorials-kr](https://tutorials.pytorch.kr) by translating official docs in KR.
 
 ## Certifications
 ---
