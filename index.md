@@ -5,10 +5,9 @@ title: Jinsung Ha (하진성)
 
 ## About Me
 ---
+If you want to know more about me, type `import jinsung` in the python console below. 
 
-Type `import jinsung` in the python console below to further discover about me.
-
-<iframe frameborder="0" width="115%" height="360px" src="brython/index.html"></iframe>
+<iframe frameborder="0" width="98%" height="335px" src="brython/index.html"></iframe>
 
 ## Interest
 ---
@@ -72,6 +71,15 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022_
 
 - We propose an optimization based deep learning approach for user-guided colorization.
 
+## Thesis
+---
+
+**Fast Deep Depth Image Completion**  
+Co-Supervised by [Dr Ronald Clark](https://www.ron-clark.com) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
+_Achieved First Class Honours (Distinction)_
+
+- The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
+
 ## Education
 ---
 
@@ -83,15 +91,6 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 - Year 2. Artificial Intelligence, Algorithms, Operating Systems, Networks, Software Designs, Statistics, Concurrency, Compilers, Models of Computation, Computational Techniques
 - Year 3. Machine Learning, Computer Vision, Robotics, Web Security, Distributed Algorithms, Graphics, Advanced Databases
 - Year 4. Deep Learning, Reinforcement Learning, Natural Language Processing, ML for imaging, Maths for ML, Machine Arguing, Distributed Ledgers, Software Engineering for Industry
-
-## Thesis
----
-
-**Fast Deep Depth Image Completion**  
-Co-Supervised by [Dr Ronald Clark](https://www.ron-clark.com) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
-_Achieved First Class Honours (Distinction)_
-
-- The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Projects
 ---

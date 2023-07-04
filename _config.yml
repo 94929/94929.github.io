@@ -1,8 +1,10 @@
 title: Jinsung Ha (하진성)
-url: "https://jha929.github.io/"
-baseurl: ""
+url: "https://resume.jinsungha.com"
+baseurl: "/"
 
 markdown: kramdown
+
+tracking_id: G-J54180QFZD
 
 footer: yes
 footer_url: "mailto:jsung5381@naver.com"
