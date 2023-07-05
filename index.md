@@ -9,8 +9,9 @@ title: Jinsung Ha (하진성)
 
 > Machine Learning Backend Engineer with 3+ years of work experience.
 
-<details><summary>If you want to know more about me, click then `import jinsung`</summary>
-<iframe frameborder="0" width="98%" height="335px" src="brython/index.html"></iframe>
+<details>
+    <summary>If you want to know more about me, click then type `import jinsung`</summary>
+    <iframe frameborder="0" width="98%" height="335px" src="brython/index.html"></iframe>
 </details>
 
 ## Interest
