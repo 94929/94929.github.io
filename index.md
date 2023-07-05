@@ -4,36 +4,45 @@ title: Jinsung Ha (하진성)
 ---
 
 ## About Me
----
-If you want to know more about me, type `import jinsung` in the python console below. 
 
+---
+
+> Machine Learning Backend Engineer with 3+ years of work experience.
+
+<details><summary>If you want to know more about me, click then `import jinsung`</summary>
 <iframe frameborder="0" width="98%" height="335px" src="brython/index.html"></iframe>
+</details>
 
 ## Interest
+
 ---
 
 > Machine Learning (Deep Learning), Backend, Python
 
 ## Tech Stack
+
 ---
 
 > Language: [Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white), [TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)  
 > Backend Framework: [NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white), [FastAPI](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white)  
-> DL Framework: [PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+> DL Framework: [PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ## Work Experience
+
 ---
 
 **[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
 _Machine Learning Engineer (전문연구요원 전직)_  
-*AI Team*
+_AI Team_
+
 - in progress
 
-*Space Vision Team*
-- Involved in both SW 1.0 and 2.0 of the computer vision team.
-- Lightweighted edge device containing ads player and inference module by optimization.
-- Implemented custom DAG Scheduler for daily updated ADs.
-- Implemented a preprocessor for raw edge logs to provide realtime aggregation.
+_Space Vision Team_
+
+- Involved in both SW 1.0 and 2.0 part of the vision team.
+- Light-weighted edge device containing ads player and inference module by optimization.
+- Proposed a custom DAG Scheduler pipeline for daily updated ADs.
+- Implemented a data processor for raw edge logs to provide realtime aggregation.
 - Implemented people counter module based on people tracking module, used in COEX convention hall.
 
 **[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
@@ -57,6 +66,7 @@ _Machine Learning Engineering Intern_
 - Implemented a deep musical note generator for a rhythm game called Tapsonic.
 
 ## Research Experience
+
 ---
 
 **GuideFormer: Transformers for Image Guided Depth Completion**  
@@ -67,11 +77,12 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022_
 - We propose a fully transformer-based architecture for depth completion.
 
 **User-Guided Colorization Using Optimization and Learned Similarity**  
-[Jinsung Ha](https://94929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ron-clark.com)  
+[Jinsung Ha](https://94929.github.io)\*, [Shuyu Lin](https://shuyulin.co.uk)\*, [Ronald Clark](https://www.ron-clark.com)
 
 - We propose an optimization based deep learning approach for user-guided colorization.
 
 ## Thesis
+
 ---
 
 **Fast Deep Depth Image Completion**  
@@ -81,6 +92,7 @@ _Achieved First Class Honours (Distinction)_
 - The objective is to use deep learning to enhance the depth data thus it can be used to its full benefit in robotic perception tasks.
 
 ## Education
+
 ---
 
 **[Imperial College London](https://www.imperial.ac.uk/computing)** | London, United Kingdom (Oct 2014 - Oct 2019)  
@@ -93,11 +105,13 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 - Year 4. Deep Learning, Reinforcement Learning, Natural Language Processing, ML for imaging, Maths for ML, Machine Arguing, Distributed Ledgers, Software Engineering for Industry
 
 ## Projects
+
 ---
 
 [![Hanc marginis exiguitas non caperet.](./projects.png)](https://jinsungha.notion.site/12716fbd7f154ac4a776ba206b950061)
 
 ## Awards
+
 ---
 
 **창업진흥원장상 (2nd Place in [LG Science Park Section](https://youtu.be/kNiEJx1Sl7M))** | [AI Championship 2020](http://kstartup-aic.com)  
@@ -106,19 +120,21 @@ _[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)_
 - Developed a deep ensemble network to detect anomaly in noise inspection of electronics.
 
 ## Activities
+
 ---
 
-**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers](https://developers-kr.googleblog.com)  
+**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers KR](https://developers-kr.googleblog.com)  
 _Participant_
 
 - Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
-**[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software](https://www.oss.kr)  
+**[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software KR](https://www.oss.kr)  
 _Participant_
 
-- Contributed to [pytorch-tutorials-kr](https://tutorials.pytorch.kr) by translating official docs in KR.
+- Contributed to [pytorch-tutorials-kr](https://tutorials.pytorch.kr) by translating official docs in Korean.
 
 ## Certifications
+
 ---
 
 | Name                             | Issued by  | Expires on |
@@ -127,6 +143,7 @@ _Participant_
 | Tensorflow Developer Certificate | Tensorflow | Jan 2024   |
 
 ## Opensource Contributions
+
 ---
 
 | Project                                                                              | Role        | PR #       |
@@ -138,3 +155,9 @@ _Participant_
 | [pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr)                 | Contributor | 276        |
 | [backend-interview-question](https://github.com/ksundong/backend-interview-question) | Contributor | 24         |
 | [virtual-modi](https://github.com/LUXROBO/virtual-modi)                              | Author      | \>= 1      |
+
+## Languages
+
+---
+
+Bilingual in Korean and English
