@@ -152,6 +152,7 @@ _Participant_
 | [pymodi](https://github.com/LUXROBO/pymodi)                                          | Maintainer  | \>= 97     |
 | [modi-firmware-updater](https://github.com/LUXROBO/modi-firmware-updater)            | Author      | \>= 1      |
 | [iamport-rest-client-python](https://github.com/iamport/iamport-rest-client-python)  | Maintainer  | \>= 43     |
+| [ray](https://github.com/ray-project/ray)                                            | Contributor | 38496      |
 | [pyupbit](https://github.com/sharebook-kr/pyupbit)                                   | Contributor | 5, 7, 8, 9 |
 | [pytorch-tutorials-kr](https://github.com/9bow/PyTorch-tutorials-kr)                 | Contributor | 276        |
 | [backend-interview-question](https://github.com/ksundong/backend-interview-question) | Contributor | 24         |
