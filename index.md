@@ -36,7 +36,8 @@ title: Jinsung Ha (하진성)
 _Machine Learning Engineer (전문연구요원 전직)_  
 _AI Team_
 
-- in progress
+- Managed inference server(pCTR and pCVR inferencer) while optimizing its performance.
+- Managed ML Infrastructure for Ops on Kubernetes.
 
 _Space Vision Team_
 
@@ -138,10 +139,10 @@ _Participant_
 
 ---
 
-| Name                             | Issued by  | Expires on |
-| -------------------------------- | ---------- | ---------- |
-| Deep Learning Specialization     | Coursera   | Never      |
-| Tensorflow Developer Certificate | Tensorflow | Jan 2024   |
+| Name                             | Issued by   | Expires on |
+| -------------------------------- | ------------| ---------- |
+| Tensorflow Developer Certificate | Tensorflow  | Jan 2024   |
+| Terraform Associate (003)        | HashiCorp   | Sep 2025   |
 
 ## Opensource Contributions
 
