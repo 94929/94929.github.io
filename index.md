@@ -7,7 +7,7 @@ title: Jinsung Ha (하진성)
 
 ---
 
-> Machine Learning Backend Engineer with 3+ years of work experience.
+> Machine Learning Engineer with 3+ years of work experience.
 
 <details>
     <summary>If you'd like to know more about me, click then type `import jinsung`</summary>
@@ -112,7 +112,7 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 
 [![Hanc marginis exiguitas non caperet.](./projects.png)](https://jinsungha.notion.site/12716fbd7f154ac4a776ba206b950061)
 
-## Awards
+## Awards & Activities
 
 ---
 
@@ -120,15 +120,6 @@ _학석사통합과정 전산학 (인공지능)_, GPA 3.3/4.0
 _[LUXROBO AI Team](https://youtu.be/WvvKBmTsPTY?t=5822)_
 
 - Developed a deep ensemble network to detect anomaly in noise inspection of electronics.
-
-## Activities
-
----
-
-**[Google Machine Learning Bootcamp 2020](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html)** | [Google Developers KR](https://developers-kr.googleblog.com)  
-_Participant_
-
-- Deepened my understanding of machine learning and gained practical skills in deep learning frameworks.
 
 **[Opensource Contributon 2021](https://www.oss.kr/contribution_academy)** | [Open Source Software KR](https://www.oss.kr)  
 _Participant_
