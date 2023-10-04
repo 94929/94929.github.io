@@ -39,7 +39,7 @@ _AI Team_
 - Managed inference server(pCTR and pCVR inferencer) while optimizing its performance.
 - Managed ML Infrastructure for Ops on Kubernetes.
 
-_Space Vision Team_
+_Computer Vision Team_
 
 - Involved in both SW 1.0 and 2.0 part of the vision team.
 - Light-weighted edge device containing ads player and inference module by optimization.
