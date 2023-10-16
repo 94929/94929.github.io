@@ -36,8 +36,8 @@ title: Jinsung Ha (하진성)
 _Machine Learning Engineer (전문연구요원 전직)_  
 _AI Team_
 
-- Managed inference server(pCTR and pCVR inferencer) while optimizing its performance.
-- Managed ML Infrastructure for Ops on Kubernetes.
+- Managed inference server(pCTR and pCVR inferencer) with 10k+ requests per second.
+- Managed ML Infrastructure for Ops on EKS cluster.
 
 _Computer Vision Team_
 
@@ -154,4 +154,4 @@ _Participant_
 
 ---
 
-Bilingual in Korean and English
+Korean(native) and English(fluent)
