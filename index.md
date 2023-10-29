@@ -20,13 +20,13 @@ title: Jinsung Ha (하진성)
 
 > Machine Learning (Deep Learning), Backend, Python
 
-## Tech Stack
+## Techical Skills
 
 ---
 
-> Language: [Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white), [TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)  
-> Backend Framework: [NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white), [FastAPI](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white)  
-> DL Framework: [PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+> Languages: Python, Typescript
+> Backend Frameworks: FastAPI, NestJS
+> Deep Learning Framework: PyTorch
 
 ## Work Experience
 
@@ -34,16 +34,16 @@ title: Jinsung Ha (하진성)
 
 **[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
 _Machine Learning Engineer (전문연구요원 전직)_  
-_AI Team_
+_AI Team (online ads bidding system)_
 
-- Managed inference server(pCTR and pCVR inferencer) with 10k+ requests per second.
-- Managed ML Infrastructure for Ops on EKS cluster.
+- Optimized server architecture and speed of pCTR server in a FastAPI-based online advertising bidding system, while taking 100k+ requests per minute.
+- Maintained AI Infrastructure (zerotime deployment of servers etc) on EKS cluster.
 
-_Computer Vision Team_
+_Computer Vision Team (offline ads system)_
 
 - Involved in both SW 1.0 and 2.0 part of the vision team.
 - Light-weighted edge device containing ads player and inference module by optimization.
-- Proposed a custom DAG Scheduler pipeline for daily updated ADs.
+- Proposed a custom DAG Scheduler pipeline for asynchronous ADs update.
 - Implemented a data processor for raw edge logs to provide realtime aggregation.
 - Implemented people counter module based on people tracking module, used in COEX convention hall.
 
