@@ -24,9 +24,9 @@ title: Jinsung Ha (하진성)
 
 ---
 
-> Languages: Python, Typescript
-> Backend Frameworks: FastAPI, NestJS
-> Deep Learning Framework: PyTorch
+> Languages: Python, Typescript  
+> Backend Frameworks: FastAPI, NestJS  
+> Deep Learning Framework: PyTorch  
 
 ## Work Experience
 
