@@ -34,9 +34,10 @@ title: Jinsung Ha (하진성)
 
 **[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
 _Machine Learning Engineer (전문연구요원 전직)_  
-_AI Team (online ads bidding system)_
+_AI Team (online ads system)_
 
-- Optimized server architecture and speed of pCTR server in a FastAPI-based online advertising bidding system, while taking 100k+ requests per minute.
+- Optimized latency and throughput of ADs recommendation server, while taking 100k+ requests per minute.
+- Writing bare Starlette api, fixing load balance using nginx over gunicorn, finding optimal number of CPUs.
 - Maintained AI Infrastructure (zerotime deployment of servers etc) on EKS cluster.
 
 _Computer Vision Team (offline ads system)_
