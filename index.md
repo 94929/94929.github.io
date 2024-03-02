@@ -88,7 +88,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022_
 
 ---
 
-**Fast Deep Depth Image Completion**  
+**Self-Supervised Learning for Depth Image Completion and Enhancement**
 Co-Supervised by [Dr Ronald Clark](https://www.ron-clark.com) and [Dr Sajad Saeedi](https://www.sajad-saeedi.ca) at [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab)  
 _Achieved First Class Honours (Distinction)_
 
