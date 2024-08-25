@@ -7,7 +7,7 @@ title: Jinsung Ha (하진성)
 
 ---
 
-> Machine Learning Engineer with 3+ years of work experience.
+> Machine Learning Engineer with 4+ years of work experience.
 
 <details>
     <summary>If you'd like to know more about me, click then type `import jinsung`</summary>
@@ -18,7 +18,7 @@ title: Jinsung Ha (하진성)
 
 ---
 
-> Machine Learning (Deep Learning), Backend, Python
+> Machine Learning Engineering (including MLOPs)
 
 ## Techical Skills
 
@@ -36,11 +36,24 @@ title: Jinsung Ha (하진성)
 _Machine Learning Engineer (전문연구요원 전직)_  
 _AI Team (online ads system)_
 
-- Optimized latency and throughput of ADs recommendation server, while taking 100k+ requests per minute.
-- Writing bare Starlette api, fixing load balance using nginx over gunicorn, finding optimal number of CPUs.
-- Maintained AI Infrastructure (zerotime deployment of servers etc) on EKS cluster.
+Encharge of maintaining ml model inference server and managing K8S(EKS) cluster.
 
-_Computer Vision Team (offline ads system)_
+Server Side:
+- Maintained onnx based ml model inference server which processes 100k+ requests per minute.
+- Continously optimized p99 latency and throughput of the inference server, based on profiling data from py-spy.
+- Optimized memory usage of inference pod by 5X using shared memory among processes which led to cost reduction.
+- Improved observability of ml servers using custom metrics of prometheus and grafana dashboard.
+- Implemented a persistence logging system using cloud watch logs and athena.
+- Reduced pod ready time by 5x by docker image size optimization, model loading time (affect the hpa).
+- Introduced automation to, including loadtest, lint, code review, code deployment etc.
+
+Infra Side:
+- X
+
+Model Side:
+- X
+
+_Vision Team (offline ads system)_
 
 - Involved in both SW 1.0 and 2.0 part of the vision team.
 - Light-weighted edge device containing ads player and inference module by optimization.
@@ -55,7 +68,7 @@ _Machine Learning Engineer (전문연구요원 편입)_
 - Enhaned usability of MODI by implementing SWs including MODI Firmware Updater, VirtualMODI.
 - Led AI Team to win 2nd place in AI Championship 2020.
 - Conducted a side-research on depth completion, published our research to CVPR 2022.
-- Structured automated data pipeline with Github Actions and AWS for recommendation system APIs.
+- Structured an automated data pipeline recommendation system APIs of LMS.
 - Received the best peer (of AI) prize in 2021, nominated by colleagues.
 
 **[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
