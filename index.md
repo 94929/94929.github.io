@@ -36,22 +36,28 @@ title: Jinsung Ha (하진성)
 _Machine Learning Engineer (전문연구요원 전직)_  
 _AI Team (online ads system)_
 
-Encharge of maintaining ml model inference server and managing K8S(EKS) cluster.
+Server Side: (focused on optimizing the p99 latency and throughput)
+- Maintained onnx-based ML model inference server processing 100k+ requests per minute.
+- Implemented redis-cluster-based online feature store for mobile app DSP.
+- Improved p99 latency and throughput of inference server, based on cpu profiled data.
+- Reduced memory usage by 5X using shared memory, resulting in cost savings.
+- Decreased model preparation time by 5X through implementing a model caching storage.
+- Enhanced ML server observability with custom Prometheus metrics and Grafana dashboards.
+- Implemented centralized logging system using CloudWatch Logs and Athena.
+- Automated server code deployment, loadtesting, linting, code review.
+- Refactored inference server structure for improved efficiency and manageability.
+- Restructured inference architecture to support model ensemble methods.
 
-Server Side:
-- Maintained onnx based ml model inference server which processes 100k+ requests per minute.
-- Continously optimized p99 latency and throughput of the inference server, based on profiling data from py-spy.
-- Optimized memory usage of inference pod by 5X using shared memory among processes which led to cost reduction.
-- Improved observability of ml servers using custom metrics of prometheus and grafana dashboard.
-- Implemented a persistence logging system using cloud watch logs and athena.
-- Reduced pod ready time by 5x by docker image size optimization, model loading time (affect the hpa).
-- Introduced automation to, including loadtest, lint, code review, code deployment etc.
+Infra Side: (focused on optimizing the pipelining cost)
+- Led migration of server applications to EKS cluster.
+- Maintained Airflow DAGs for model pipeline (sensors, training, calibration etc).
+- Improved pipeline job observability and fixed failing Airflow tasks.
 
-Infra Side:
-- X
-
-Model Side:
-- X
+Model Side: (focused on optimizing [RoAS](https://www.appsflyer.com/glossary/roas))
+- Analyzed data of underperforming models to optimize budget allocation.
+- Discovered and implemented new features, improving offline AUC of ML models.
+- Developed new calibration model logic, increasing RoAS by 3X.
+- Conducted A/B testing on calibrated pCTR model.
 
 _Vision Team (offline ads system)_
 
