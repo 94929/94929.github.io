@@ -18,7 +18,7 @@ title: Jinsung Ha (하진성)
 
 ---
 
-> Machine Learning Engineering (including MLOPs)
+> Machine Learning Engineering (ML Serving and MLOps)
 
 ## Techical Skills
 
