@@ -32,7 +32,13 @@ title: Jinsung Ha (하진성)
 
 ---
 
-**[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (Jul 2022 - Present)  
+**[Viva Republica (Toss)](https://en.wikipedia.org/wiki/Viva_Republica)**) | South Korea (04.2025 - Present)  
+_Machine Learning Engineer_  
+_ML Platform Team_
+
+- Implement and maintain machine learning model training pipeline sdk based on airflow.
+
+**[Dable](https://dable.io/en)** (Subsidiary of [Yanolja](https://yanolja.in/en)) | South Korea (07.2022 - 04.2025)  
 _Machine Learning Engineer (전문연구요원 전직)_  
 _AI Team (online ads system)_
 
@@ -67,7 +73,7 @@ _Vision Team (offline ads system)_
 - Implemented a data processor for raw edge logs to provide realtime aggregation.
 - Implemented people counter module based on people tracking module, used in COEX convention hall.
 
-**[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (Jan 2020 - Jul 2022)  
+**[LUXROBO](https://global.luxrobo.com/eng)** | South Korea (01.2020 - 07.2022)  
 _Machine Learning Engineer (전문연구요원 편입)_
 
 - Implemented MODI Python API, [PyMODI](https://github.com/luxrobo/pymodi) for MODI AI KIT.
@@ -77,12 +83,12 @@ _Machine Learning Engineer (전문연구요원 편입)_
 - Structured an automated data pipeline recommendation system APIs of LMS.
 - Received the best peer (of AI) prize in 2021, nominated by colleagues.
 
-**[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (Mar 2018 - Sep 2018)  
+**[Schlumberger UK](https://www.slb.com/about/rd/technology/abtc.aspx)** | United Kingdom (03.2018 - 09.2018)  
 _Machine Learning Engineering Intern_
 
 - Implemented a machine learning program which predicts an optimal node group for small-sized reservoir simulation in HPC environment.
 
-**[NEOWIZ](https://www.neowiz.com/neowiz?t=1)** | South Korea (Aug 2017 - Sep 2017)  
+**[NEOWIZ](https://www.neowiz.com/neowiz?t=1)** | South Korea (08.2017 - 09.2017)  
 _Machine Learning Engineering Intern_
 
 - Implemented a deep musical note generator for a rhythm game called Tapsonic.
