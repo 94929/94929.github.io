@@ -32,7 +32,7 @@ title: Jinsung Ha (하진성)
 
 ---
 
-**[Viva Republica (Toss)](https://en.wikipedia.org/wiki/Viva_Republica)**) | South Korea (04.2025 - Present)  
+**[Viva Republica (Toss)](https://en.wikipedia.org/wiki/Viva_Republica)** | South Korea (04.2025 - Present)  
 _Machine Learning Engineer_  
 _ML Platform Team_
 
